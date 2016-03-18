@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+ <book>
+   <Author>Rizzo, Maria L.</Author>
+   <Author_2>NA</Author_2>
+   <Author_3>NA</Author_3>
+   <Author_4>NA</Author_4>
+   <Title>Statistical Computing With R</Title>
+   <ISBN>1-58488-545-9</ISBN>
+   <Year>2008</Year>         
+ </book>
+ <book>                       
+   <Author>Banks, Jerry</Author>
+   <Author_2>Carlson, John S.</Author_2>
+   <Author_3>Nelson, Barry L.</Author_3>
+   <Author_4>Nicol, David M.</Author_4>
+   <Title>Discrete-Event Systems Simulation</Title>
+   <ISBN>078-0-13-606212-7</ISBN>
+   <Year>2010</Year>         
+ </book>
+ <book>
+   <Author>Joines, Jeffrey A.</Author>
+   <Author_2>Roberts, Stephen D.</Author_2>
+   <Author_3>NA</Author_3>
+   <Author_4>NA</Author_4>
+   <Title>Simulation Modeling with SIMIO: A Workbook</Title>
+   <ISBN>978-1-938207-76-1</ISBN>
+   <Year>2012</Year>
+ </book>
+</books>
