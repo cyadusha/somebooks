@@ -1,5 +1,6 @@
-{"book list":[
+[
     {
+    "id": 1,
     "Author": "Rizzo, Maria L.",
     "Author_2": "NA",
     "Author_3": "NA",
@@ -9,6 +10,7 @@
     "Year": 2008,
     },
     {
+    "id": 2,
     "Author": "Banks, Jerry",
     "Author_2": "Carlson, John S.",
     "Author_3": "Nelson, Barry L.",
@@ -18,6 +20,7 @@
     "Year": 2010,
     },
     {
+    "id": 3,
     "Author": "Joines, Jeffrey A.",
     "Author_2": "Roberts, Stephen D.",
     "Author_3": "NA",
@@ -26,4 +29,4 @@
     "ISBN": "978-1-938207-76-1",
     "Year": 2012,
     }
-]}
+]
